@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Introductioon to Godot 4/5. Learning about nodes and scenes.md",
+                "file": "2. Coin Dash building your first 2d game/1. Resources for the project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Learning about nodes and scenes"
+              "title": "1. Resources for the project"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introductioon to Godot 4/5. Learning about nodes and scenes.md",
+                "file": "2. Coin Dash building your first 2d game/1. Resources for the project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Introductioon to Godot 4/5. Learning about nodes and scenes.md",
+                "file": "2. Coin Dash building your first 2d game/1. Resources for the project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Introductioon to Godot 4/5. Learning about nodes and scenes.md",
+                "file": "2. Coin Dash building your first 2d game/1. Resources for the project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,13 +190,16 @@
   },
   "active": "1d2463b849ce01f7",
   "lastOpenFiles": [
-    "1. Introductioon to Godot 4/4. Introduction to godot ui.md",
+    "1. Introductioon to Godot 4/6. Scripting in godot.md",
+    "2. Coin Dash building your first 2d game/1. Resources for the project.md",
+    "2. Coin Dash building your first 2d game",
     "1. Introductioon to Godot 4/5. Learning about nodes and scenes.md",
+    "1. Introductioon to Godot 4/4. Introduction to godot ui.md",
+    "1. Introductioon to Godot 4/1. What the game engine?.md",
+    "1. Introductioon to Godot 4/2. What the godot?.md",
+    "1. Introductioon to Godot 4/3. Installing godot.md",
     "1. Introductioon to Godot 4/Kuvakaappaus_20260804_171318.png",
     "1. Introductioon to Godot 4/Kuvakaappaus_20260804_170752.png",
-    "1. Introductioon to Godot 4/3. Installing godot.md",
-    "1. Introductioon to Godot 4/2. What the godot?.md",
-    "1. Introductioon to Godot 4/1. What the game engine?.md",
     "0. Preface/2. What does the book cover.md",
     "1. Introductioon to Godot 4",
     "0. Preface/3. Projects we gonna be building.md",
