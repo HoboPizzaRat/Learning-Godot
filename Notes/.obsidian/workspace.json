@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Coin Dash building your first 2d game/1. Resources for the project.md",
+                "file": "2. Coin Dash building your first 2d game/7. The player scene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Resources for the project"
+              "title": "7. The player scene"
+            }
+          },
+          {
+            "id": "d7d1e474e209c8d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Coin Dash building your first 2d game/7. The player scene.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. The player scene"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,21 +203,36 @@
       "bases:Luo uusi kanta": false
     }
   },
-  "active": "1d2463b849ce01f7",
+  "active": "d7d1e474e209c8d5",
   "lastOpenFiles": [
-    "1. Introductioon to Godot 4/6. Scripting in godot.md",
+    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_095643.png",
+    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_095413.png",
+    "2. Coin Dash building your first 2d game/7. The player scene.md",
+    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_094634.png",
+    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_094330.png",
+    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_093907.png",
+    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_093450.png",
+    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_095033.png",
+    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_092909.png",
+    "2. Coin Dash building your first 2d game/6. Vectors and coordinate systems.md",
+    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_092512.png",
+    "2. Coin Dash building your first 2d game/5. Changing viewport widht and height on the game screen.md",
+    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_092014.png",
+    "2. Coin Dash building your first 2d game/4. Importing assets into the game.md",
+    "2. Coin Dash building your first 2d game/3. Setting up project.md",
+    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_090853.png",
+    "2. Coin Dash building your first 2d game/2. What we gonna do in this chapter.md",
     "2. Coin Dash building your first 2d game/1. Resources for the project.md",
-    "2. Coin Dash building your first 2d game",
+    "1. Introductioon to Godot 4/6. Scripting in godot.md",
     "1. Introductioon to Godot 4/5. Learning about nodes and scenes.md",
     "1. Introductioon to Godot 4/4. Introduction to godot ui.md",
-    "1. Introductioon to Godot 4/1. What the game engine?.md",
-    "1. Introductioon to Godot 4/2. What the godot?.md",
     "1. Introductioon to Godot 4/3. Installing godot.md",
-    "1. Introductioon to Godot 4/Kuvakaappaus_20260804_171318.png",
-    "1. Introductioon to Godot 4/Kuvakaappaus_20260804_170752.png",
+    "1. Introductioon to Godot 4/1. What the game engine?.md",
+    "0. Preface/3. Projects we gonna be building.md",
+    "2. Coin Dash building your first 2d game",
+    "1. Introductioon to Godot 4/2. What the godot?.md",
     "0. Preface/2. What does the book cover.md",
     "1. Introductioon to Godot 4",
-    "0. Preface/3. Projects we gonna be building.md",
     "0. Preface/1. What learning resource im using.md",
     "Nimetön.md",
     "0. Preface"
