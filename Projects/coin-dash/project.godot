@@ -11,9 +11,14 @@ config_version=5
 [application]
 
 config/name="Coin dash"
-run/main_scene="uid://bcfxmwr0rt8hp"
+run/main_scene="uid://k36qm7uuhr3m"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=480
+window/size/viewport_height=720
 
 [physics]
 

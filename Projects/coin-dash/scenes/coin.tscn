@@ -49,9 +49,9 @@ animations = [{
 "duration": 1.0,
 "texture": ExtResource("12_enjic")
 }],
-"loop": 1,
+"loop": 0,
 "name": &"default",
-"speed": 5.0
+"speed": 12.0
 }]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_3ioc3"]
@@ -68,3 +68,8 @@ frame_progress = 0.8431669
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=913011777]
 shape = SubResource("CircleShape2D_3ioc3")
+
+[node name="Timer" type="Timer" parent="." unique_id=1413454836]
+
+[connection signal="area_entered" from="." to="." method="_on_area_entered"]
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]
