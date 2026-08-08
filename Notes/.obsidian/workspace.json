@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Coin Dash building your first 2d game/7. The player scene.md",
+                "file": "2. Coin Dash building your first 2d game/10. The user Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. The player scene"
+              "title": "10. The user Interface"
             }
           }
         ],
@@ -205,6 +205,9 @@
   },
   "active": "d7d1e474e209c8d5",
   "lastOpenFiles": [
+    "2. Coin Dash building your first 2d game/9. Main Scene.md",
+    "2. Coin Dash building your first 2d game/10. The user Interface.md",
+    "Kuvakaappaus_20260808_102354.png",
     "2. Coin Dash building your first 2d game/8. The coin Scene.md",
     "2. Coin Dash building your first 2d game/7. The player scene.md",
     "2. Coin Dash building your first 2d game/Kuvakaappaus_20260808_094236.png",
@@ -222,7 +225,6 @@
     "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_093450.png",
     "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_095033.png",
     "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_092909.png",
-    "2. Coin Dash building your first 2d game/Kuvakaappaus_20260805_092512.png",
     "2. Coin Dash building your first 2d game/1. Resources for the project.md",
     "1. Introductioon to Godot 4/6. Scripting in godot.md",
     "1. Introductioon to Godot 4/5. Learning about nodes and scenes.md",

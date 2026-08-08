@@ -12,7 +12,7 @@ var screensize = Vector2(480, 720)
 func _ready() -> void:
 	set_process(true)
 	position = screensize / 2
-	$AnimatedSprite2D.animatino = "idle"
+	$AnimatedSprite2D.animation = "idle"
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
